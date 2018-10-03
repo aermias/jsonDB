@@ -1,0 +1,2 @@
+{"hello":"world","n":5,"today":{"$$date":1528735070910},"nedbIsAwesome":true,"notthere":null,"fruits":["apple","orange","pear"],"infos":{"name":"nedb"},"_id":"6xAEjHrdxeduoqbL"}
+{"$$deleted":true,"_id":"6xAEjHrdxeduoqbL"}
